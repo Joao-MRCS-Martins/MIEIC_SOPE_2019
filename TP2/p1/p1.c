@@ -1,4 +1,4 @@
-//FOLHA 2 - p2b.c
+//FOLHA 2 - p1.c
 //LEITURA DE PASSWORD, SEM ECOAR CARACTER LIDO
 
 #include <termios.h>
